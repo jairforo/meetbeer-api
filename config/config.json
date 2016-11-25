@@ -1,23 +1,23 @@
 {
   "development": {
-    "username": "meetbeer_api_user'",
+    "username": "meetbeer_api_user",
     "password": "|m1e2e3t4b5e6e7r8|",
     "database": "meetbeer_api",
-    "host": "127.0.0.1",
+    "host": "localhost",
     "dialect": "mysql"
   },
   "test": {
-    "username": "meetbeer_api_user'",
+    "username": "meetbeer_api_user",
     "password": "|m1e2e3t4b5e6e7r8|",
     "database": "meetbeer_api",
-    "host": "127.0.0.1",
+    "host": "localhost",
     "dialect": "mysql"
   },
   "production": {
-    "username": "meetbeer_api_user'",
+    "username": "meetbeer_api_user",
     "password": "|m1e2e3t4b5e6e7r8|",
     "database": "meetbeer_api",
-    "host": "127.0.0.1",
+    "host": "localhost",
     "dialect": "mysql"
   }
 }
