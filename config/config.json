@@ -3,21 +3,21 @@
     "username": "meetbeer_api_user'",
     "password": "|m1e2e3t4b5e6e7r8|",
     "database": "meetbeer_api",
-    "host": "localhost",
+    "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "test": {
     "username": "meetbeer_api_user'",
     "password": "|m1e2e3t4b5e6e7r8|",
     "database": "meetbeer_api",
-    "host": "localhost",
+    "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "production": {
     "username": "meetbeer_api_user'",
     "password": "|m1e2e3t4b5e6e7r8|",
     "database": "meetbeer_api",
-    "host": "localhost",
+    "host": "127.0.0.1",
     "dialect": "mysql"
   }
 }
